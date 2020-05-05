@@ -1,4 +1,4 @@
-## Aidan is a dope af G playa.
+## Aidan will alwyas be stronger than angus
 
 I am creating a website that allows dogs to be friends on the internet. You may say tinder for dogs but lol its similar.
 
