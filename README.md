@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Aidan is a dope af G playa.
 
-You can use the [editor on GitHub](https://github.com/aidanjnunn/Free-Me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am creating a website that allows dogs to be friends on the internet. You may say tinder for dogs but lol its similar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Age 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a 100 year old man with 6 eyes.
 
 ```markdown
 Syntax highlighted code block
